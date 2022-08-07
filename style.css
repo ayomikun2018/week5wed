@@ -1,0 +1,165 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body {
+    color: #40514E;
+    font-family: "Exo", sans-serif;
+    text-align: center;
+  }
+  hr {
+    border: none;
+    border-top: dotted #8b98a3 5px;
+    width: 5%;
+    margin: 100px auto;
+  }
+  h1{
+    font-family: "Sacramento", sans-serif;
+    font-size: 5.5rem;
+    color: #5a99ccf6;
+    text-align: center;
+  }
+  h2 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 1.4rem;
+    color:  #5a99ccf6;
+    padding-bottom: 10px;
+  }
+  
+  h3 {
+    font-family: "Merienda", Courier, monospace;
+    margin-bottom: 20px;
+  }
+  
+  p {
+    line-height: 2;
+  }
+a {
+    color: #11999e;
+    font-family: "Montserrat", sans-serif;
+    margin: 10px;
+    text-decoration: none;
+  }
+ a:hover {
+    color: #e8f6f6;
+  }
+  
+  .top-container {
+    background-color: #d8e3ecf6;
+    position: relative;
+    height: 30rem;
+    padding-top:100px;
+  }
+  
+  .middle-container {
+    margin: 100px auto;
+  }
+
+  .bottom-container {
+    background-color: #d8e3ec;
+    padding: 50px 0;
+  }
+  
+  .first-flower {
+    position: absolute;
+    right: 100px;
+    top:0px;
+    
+  }
+  
+  .second-flower {
+    position: absolute;
+    left:130px;
+    bottom:0px;
+    
+  }
+  /* .third-flower{
+    position: absolute;
+    right: 15px;
+    bottom:px;
+    border-radius: 10px;
+
+  } */
+  .profile-image {
+    border-radius :100%;
+    height:300px;
+    width: 300px;
+  }
+  
+  .intro {
+    width:30%;
+    margin: auto;
+  }
+  
+  .girlcoding-image {
+    border-radius: 100%;
+    height:25%;
+    width:25%;
+    float:left;
+    margin-right: 30px;
+  }
+  
+  .software-testing {
+    border-radius: 100%;
+    height:30%;
+    width:30%;
+    float:right;
+    margin-left: 30px;
+  }
+  
+  .skills {
+    width: 50%;
+    margin: 100px auto;
+  }
+  
+  .skill-row {
+    margin: auto auto 30px auto;
+  }
+  
+  .contact-me {
+    width: 50%;
+    margin: 50px auto ;
+  }
+  
+  .btn {
+    box-shadow: 0px 10px 14px -7px #276873;
+    background-color: linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+    background-color: #33b8e9;
+    border-radius: 8px;
+    display:inline-block;
+    color: #fff;
+    cursor: pointer;
+    font-family: "Montserrat", sans-serif;
+    font-size: 20px;
+    font-weight:bold;
+    padding: 11px 16px;
+    text-decoration: none;
+    text-shadow:0px 1px 0px #36b3e0;
+  }
+  
+  .btn:hover {
+    background-color: linear-gradient(to bottom, #22deff 5%, #6ac6e7 100%);
+    background-color: #408c99;
+    color: #40514E;
+  }
+  
+  .copyright {
+    color: rgb(27, 23, 23);
+    font-size: 0.8rem;
+    padding: 20px 0;
+  } 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
