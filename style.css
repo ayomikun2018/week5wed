@@ -48,8 +48,9 @@ a {
   .top-container {
     background-color: #d8e3ecf6;
     position: relative;
-    height: 30rem;
+    height: 32rem;
     padding-top:100px;
+  
   }
   
   .middle-container {
@@ -65,22 +66,22 @@ a {
     position: absolute;
     right: 100px;
     top:0px;
-    
+    height: 25%; 
   }
   
   .second-flower {
     position: absolute;
     left:130px;
     bottom:0px;
-    
+    height: 25%;
   }
-  /* .third-flower{
+  .third-flower{
     position: absolute;
-    right: 15px;
-    bottom:px;
-    border-radius: 10px;
+    right: 0px;
+    bottom: 50px;
+    height: 25%;
 
-  } */
+  }
   .profile-image {
     border-radius :100%;
     height:300px;
